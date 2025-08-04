@@ -24,3 +24,4 @@ Creating a front-end clone of Amazon using Vite involves building the user inter
 
 Note that creating a front-end clone of Amazon using Vite is still a challenging project that involves many components, so you may need to break down each step into smaller sub-steps and spend time debugging and troubleshooting as you go. You may also need to use third-party APIs or mock data to simulate the behavior of the Amazon website.
 
+
